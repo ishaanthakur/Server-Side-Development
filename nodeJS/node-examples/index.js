@@ -16,7 +16,9 @@ function solveRect(l,b) {
 			
 
 		}
-	});  
+	});
+
+	console.log("This statement is after a call to rect()");  
 
 }
 
